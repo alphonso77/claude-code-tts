@@ -1,6 +1,6 @@
 {
   "name": "claude-code-tts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server that adds text-to-speech to Claude Code using macOS say",
   "type": "module",
   "main": "build/index.js",
